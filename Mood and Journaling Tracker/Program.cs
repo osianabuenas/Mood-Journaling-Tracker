@@ -72,7 +72,7 @@ class Program
     else if (mood == 3)
     {
         Console.WriteLine("Mood: Okay");
-        Console.WriteLine("Advice: You’re doing fine. Small improvements matter.");
+        Console.WriteLine("Advice: You’re doing fine. Small improvements matter. You can do it!");
     }
     else if (mood == 4)
     {
